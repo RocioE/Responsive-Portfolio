@@ -1,0 +1,25 @@
+nav  {
+    margin-top: 40px;
+    margin-right: 10px;
+    border: 40;
+    padding: 20;
+    list-style-type: relative;
+    padding-top: 0
+  }
+  
+  li a {
+    display: inline;
+    color: rgb(233, 159, 211);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  @media (min-width: 640px) {
+  }
+
+  @media (min-width: 768px) {
+  }
+
+  @media (min-width: 980px) {
+  }
